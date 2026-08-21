@@ -81,7 +81,7 @@ The current version is hosted using **GitHub Pages**.
 
 **Live Game:**
 
-https://tarunshukla11.github.io/Tic-Tac-Toe-Master/
+https://tarunshukla11.github.io/Tic-Tac-Toe/
 
 ## Android Version
 

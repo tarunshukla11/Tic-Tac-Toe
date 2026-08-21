@@ -62,18 +62,6 @@ X |   |
 * **CSS3** — Styling, animations, responsive layout
 * **JavaScript** — Game logic and interactions
 
-## Project Structure
-
-```text
-Tic-Tac-Toe-Master/
-│
-├── index.html
-├── game.js
-├── style.css
-├── assets/
-│
-└── README.md
-```
 
 ## Web App
 

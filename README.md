@@ -82,7 +82,7 @@ The APK can be distributed through the project's GitHub Releases when a public t
 Screenshots can be added here as the project evolves.
 
 ```text
-Coming soon
+screenshots/Screenshot 2026-08-21 130414.png
 ```
 
 ## Future Plans

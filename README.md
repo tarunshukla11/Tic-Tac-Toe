@@ -79,11 +79,12 @@ The APK can be distributed through the project's GitHub Releases when a public t
 
 ## Screenshots
 
-Screenshots can be added here as the project evolves.
+<div align="center">
 
-```text
-screenshots/Screenshot 2026-08-21 130414.png
-```
+<img src="screenshots/gameplay.png" width="45%">
+<img src="screenshots/winning.png" width="45%">
+
+</div>
 
 ## Future Plans
 

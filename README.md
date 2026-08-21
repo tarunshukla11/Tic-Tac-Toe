@@ -81,7 +81,7 @@ The APK can be distributed through the project's GitHub Releases when a public t
 
 <div align="center">
 
-<img src="screenshots/gameplay.png" width="45%">
+<img src="screenshots/Screenshot 2026-08-21 130414.png" width="45%">
 <img src="screenshots/winning.png" width="45%">
 
 </div>
